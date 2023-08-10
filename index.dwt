@@ -1,0 +1,62 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<link rel="stylesheet" href="../css/all.min.css">
+<link rel="stylesheet" href="../css/bootstrap.css">
+<link rel="stylesheet" href="../css/Style.css">
+<link rel="stylesheet" href="../css/owl.carousel.css">
+<link rel="stylesheet" href="../css/owl.theme.default.css">
+<link rel="icon" href="../images/favicon.png" type="image/x-icon">
+<script src="../js/bootstrap.bundle.min.js"></script>
+<!-- TemplateParam name="tam" type="boolean" value="true" -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+<body>
+<nav class="navbar navbar-expand-lg bg-light gachduoi">
+  <div class="container"> <a class="navbar-brand" href="../index.html"><img src="../image 2/Untitled-4.png" alt=""></a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span> </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+        <li class="nav-item"> <a class="nav-link active" aria-current="page" href="../index.html">Trang chủ</a> </li>
+        <li class="nav-item"> <a class="nav-link" href="../Explore.html">Lịch sử</a> </li>
+        <li class="nav-item"> <a class="nav-link" href="../About.html">Về chúng tôi</a> </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+<!--xong navbar--> 
+<!-- TemplateBeginIf cond="tam" --><!-- TemplateBeginEditable name="EditRegion1" -->
+<main></main>
+<!-- TemplateEndEditable --><!-- TemplateEndIf -->
+<footer class="text-light bg-black">
+  <div class="container">
+    <div class="row pt-4">
+      <div class="col-lg-3"> <a href="../index.html"><img src="../image 2/Untitled-4.png" alt=""></a>
+        <p class="pt-3">13000 Oxnard St, Van Nuys, CA 91401 &nbsp; </p>
+        <p>Aeiou@company.com </p>
+        <p>010-020-0340 </p>
+      </div>
+      <div class="col-lg-3"> </div>
+      <div class="col-lg-3"> </div>
+      <div class="col-lg-3">
+        <h4>Useful Links</h4>
+        <ul class="navbar-nav">
+          <li class="nav-item"><a href="../index.html" class="nav-link">Trang chủ</a></li>
+          <li class="nav-item"><a href="../Explore.html" class="nav-link">Lịch sử hình thành</a></li>
+          <li class="nav-item"><a href="../About.html" class="nav-link">Về chúng tôi</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</footer>
+<script src="../js/jquery-3.6.0.min.js"></script> 
+<script src="../js/owl.carousel.js"></script> 
+<script src="../js/control.js"></script>
+</body>
+</html>
